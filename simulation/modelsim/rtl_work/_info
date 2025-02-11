@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/TEC_MTY/01_gates/simulation/modelsim
+vgates
+Z1 !s110 1739299616
+!i10b 1
+!s100 YM^CH:cdShC0^oiZ6=JNP3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I478EALc9<Y>LlnX6iJ8ND2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1739298488
+8D:/TEC_MTY/01_gates/gates.v
+FD:/TEC_MTY/01_gates/gates.v
+!i122 0
+L0 3 19
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1739299616.000000
+!s107 D:/TEC_MTY/01_gates/gates.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/TEC_MTY/01_gates|D:/TEC_MTY/01_gates/gates.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+D:/TEC_MTY/01_gates
+Z8 tCvgOpt 0
+vgates_tb
+R1
+!i10b 1
+!s100 89kO[DYc[W^UX3ijXZ@fB0
+R2
+IU7FLSFfYj8mL7H<Rdd8Q@0
+R3
+R0
+w1739299599
+8D:/TEC_MTY/01_gates/gates_tb.v
+FD:/TEC_MTY/01_gates/gates_tb.v
+!i122 1
+L0 5 44
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/TEC_MTY/01_gates/gates_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/TEC_MTY/01_gates|D:/TEC_MTY/01_gates/gates_tb.v|
+!i113 1
+R6
+R7
+R8
