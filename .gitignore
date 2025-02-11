@@ -9,3 +9,5 @@ simulation/vsim.wlf
 simulation/modelsim.ini
 /simulation/desktop.ini
 *.qws
+*.rpt
+simulation/modelsim
